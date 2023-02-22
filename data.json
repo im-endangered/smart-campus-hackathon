@@ -26,13 +26,18 @@
          "context": [""]
         },
         {"tag": "easter_eggs",
-         "patterns": ["sadness", "broken", "heart","sad"],
-         "responses": ["Hello, that is widespread in entire SRM"],
+         "patterns": ["sadness", "broken", "heart","heartbroken","sad"],
+         "responses": ["Hello, that is widespread in entire SRM","us bro us."],
          "context": [""]
         },
         {"tag": "easter_egg",
-         "patterns": ["girlfriend"],
+         "patterns": ["girlfriend","gf","dila do"],
          "responses": ["Padhai kar saale nibba","padhai likhai karta nahi hai. ruk baap ko call karta hu","nahi hai bro. mujhe vi chaiye"],
+         "context": [""]
+        },
+        {"tag": "apoorva",
+         "patterns": ["apoorva","apurv"],
+         "responses": [""],
          "context": [""]
         },
         {"tag": "tuition_fee",
@@ -71,7 +76,7 @@
          "context": [""]
         },
         {"tag": "UB",
-         "patterns": ["University Building","Pink building","Central Library","admission office"],
+         "patterns": ["University Building","Pink building","Central Library","admission office","UB"],
          "responses": ["Here is location to UB/Library building <a href='https://maps.app.goo.gl/SAwzfHQ8GSRKYhCbA' target='''_blank'''> https://maps.app.goo.gl/duKoDMErD2EvCkRQA"],
          "context": [""]
         },
